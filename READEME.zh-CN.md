@@ -9,7 +9,7 @@
 ## 获取代码
 
 ```bash
-git clone 
+git clone git@github.com:old-tan/vue3-element-plus-admin.git
 ```
 
 ## 项目设置

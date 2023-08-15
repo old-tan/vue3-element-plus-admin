@@ -13,7 +13,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Get the project code
 
 ```bash
-git clone 
+git clone git@github.com:old-tan/vue3-element-plus-admin.git
 ```
 
 ## Project Setup
